@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>myLazy</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>ClassImplementation</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>- (&lt;#code#&gt; *)&lt;#code#&gt;
+{
+        if (_&lt;#code#&gt; == nil) {
+                _&lt;#code#&gt; = [[&lt;#code#&gt; alloc] init];
+        }
+        return _&lt;#code#&gt;;
+}</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>ED2BDBCB-7E3B-431D-8ADC-BB8F61CA743F</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>myLazy</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>myLazy</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>
